@@ -1,4 +1,4 @@
-# 
+# quantitative nft trading bot | volume-analysis + snipe-list-management is the best nft trading bot, featuring volume-analysis and snipe-list-management. Fast, smart, and optimized
 
 
 
